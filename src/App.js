@@ -7,14 +7,14 @@ import Welcome from './components/Welcome';
 import Dashboard from './components/Dashboard';
 import Users from './components/Users'; // Import the UserList component
 import Swift from './components/Swift'; // Import the Swift component
-import Home from './components/Home';
+// import Home from './components/Home';
 function App() {
   return (
     <div className="App">
       <Router>
         <Routes>
-        <Route path="/reactworklfow" element={<Home />} />
-          <Route path="/" element={<Welcome />} />
+        {/* <Route path="/reactworklfow" element={<Home />} /> */}
+          <Route path="/reactworklfow" element={<Welcome />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
           <Route path="/dashboard/*" element={<Dashboard />} />
