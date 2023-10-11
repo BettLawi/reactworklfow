@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactworklfow/static/css/main.d36b8f97.css",
-    "main.js": "/reactworklfow/static/js/main.05f32f6a.js",
+    "main.js": "/reactworklfow/static/js/main.f5c94b9f.js",
     "static/js/787.e75b2812.chunk.js": "/reactworklfow/static/js/787.e75b2812.chunk.js",
     "index.html": "/reactworklfow/index.html",
     "main.d36b8f97.css.map": "/reactworklfow/static/css/main.d36b8f97.css.map",
-    "main.05f32f6a.js.map": "/reactworklfow/static/js/main.05f32f6a.js.map",
+    "main.f5c94b9f.js.map": "/reactworklfow/static/js/main.f5c94b9f.js.map",
     "787.e75b2812.chunk.js.map": "/reactworklfow/static/js/787.e75b2812.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d36b8f97.css",
-    "static/js/main.05f32f6a.js"
+    "static/js/main.f5c94b9f.js"
   ]
 }
