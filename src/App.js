@@ -13,8 +13,8 @@ function App() {
     <div className="App">
       <Router>
         <Routes>
-        <Route path="/reactworkflow" element={<Welcome />} />
-          <Route path="/" element={<Home />} />
+        <Route path="/reactworkflow" element={<Home />} />
+          <Route path="/" element={<Welcome />} />
           <Route path="/login" element={<Login />} />
           <Route path="/signup" element={<Signup />} />
           <Route path="/dashboard/*" element={<Dashboard />} />
