@@ -1,5 +1,5 @@
 {
-  "proxy": "http://swiftinventory2023-f984d0fc6c43.herokuapp.com",
+  "proxy": "https://swiftinventory2023-f984d0fc6c43.herokuapp.com",
   "name": "logintrial",
   "homepage": "http://BettLawi.github.io/reactworklfow",
   "version": "0.1.0",
