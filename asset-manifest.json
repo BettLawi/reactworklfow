@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/reactworkflow/static/css/main.d36b8f97.css",
-    "main.js": "/reactworkflow/static/js/main.ddab866a.js",
+    "main.js": "/reactworkflow/static/js/main.a966d36f.js",
     "static/js/787.e75b2812.chunk.js": "/reactworkflow/static/js/787.e75b2812.chunk.js",
     "index.html": "/reactworkflow/index.html",
     "main.d36b8f97.css.map": "/reactworkflow/static/css/main.d36b8f97.css.map",
-    "main.ddab866a.js.map": "/reactworkflow/static/js/main.ddab866a.js.map",
+    "main.a966d36f.js.map": "/reactworkflow/static/js/main.a966d36f.js.map",
     "787.e75b2812.chunk.js.map": "/reactworkflow/static/js/787.e75b2812.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d36b8f97.css",
-    "static/js/main.ddab866a.js"
+    "static/js/main.a966d36f.js"
   ]
 }
