@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/reactworkflow/static/css/main.d36b8f97.css",
-    "main.js": "/reactworkflow/static/js/main.5dcca699.js",
-    "static/js/787.e75b2812.chunk.js": "/reactworkflow/static/js/787.e75b2812.chunk.js",
-    "index.html": "/reactworkflow/index.html",
-    "main.d36b8f97.css.map": "/reactworkflow/static/css/main.d36b8f97.css.map",
-    "main.5dcca699.js.map": "/reactworkflow/static/js/main.5dcca699.js.map",
-    "787.e75b2812.chunk.js.map": "/reactworkflow/static/js/787.e75b2812.chunk.js.map"
+    "main.css": "/reactworklfow/static/css/main.d36b8f97.css",
+    "main.js": "/reactworklfow/static/js/main.05f32f6a.js",
+    "static/js/787.e75b2812.chunk.js": "/reactworklfow/static/js/787.e75b2812.chunk.js",
+    "index.html": "/reactworklfow/index.html",
+    "main.d36b8f97.css.map": "/reactworklfow/static/css/main.d36b8f97.css.map",
+    "main.05f32f6a.js.map": "/reactworklfow/static/js/main.05f32f6a.js.map",
+    "787.e75b2812.chunk.js.map": "/reactworklfow/static/js/787.e75b2812.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d36b8f97.css",
-    "static/js/main.5dcca699.js"
+    "static/js/main.05f32f6a.js"
   ]
 }
